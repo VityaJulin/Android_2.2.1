@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_2.2.1</string>
+    <string name="save_btn">Сохранить</string>
+    <string name="hint">Создать запись</string>
+</resources>
